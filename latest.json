@@ -1,8 +1,8 @@
 {
   "packageName": "com.huaecho.app",
-  "versionCode": 16,
-  "versionName": "0.6.1",
-  "apkUrl": "https://raw.githubusercontent.com/ppaofustar/HuaEcho-updates/main/HuaEcho-0.6.1.apk",
-  "sha256": "1d53a272de411b88655d5ab81558505c35d787bb05bc986df5090ac72919a149",
-  "notes": "修复热更新 HTTPS 地址校验空指针；增强图片分析稳定性，将 xAI 请求超时提高到 10 分钟，按 Retry-After 自动等待，显示准确的 HTTP 错误与请求 ID；设置页新增 xAI 连接测试。"
+  "versionCode": 17,
+  "versionName": "0.6.2",
+  "apkUrl": "https://raw.githubusercontent.com/ppaofustar/HuaEcho-updates/main/HuaEcho-0.6.2.apk",
+  "sha256": "4891b9b805f2b7561ac2345bbe6da59d1740ca142cf1bc2bfb8993fe46e9fff9",
+  "notes": "修复部分手机访问 xAI 时出现 connection closed：加入官方 us.api.x.ai 区域端点自动回退，关闭失效连接复用，固定请求长度，并增强网络级重试。"
 }
