@@ -1,8 +1,8 @@
 {
   "packageName": "com.huaecho.app",
-  "versionCode": 15,
-  "versionName": "0.6.0",
-  "apkUrl": "https://raw.githubusercontent.com/ppaofustar/HuaEcho-updates/main/HuaEcho-0.6.0.apk",
-  "sha256": "19508faeee13eb563f5db8212410d98f2c0f27d1792ab9dea1f1d41c68851571",
-  "notes": "聊天页升级：新增 Grok 模型选择与低/中/高/极高思考深度滑块；风格卡保存后直接显示微信历史，保持我在右、華在左；支持关键词搜索、按日期筛选和历史分页。修复热更新：自动迁移旧 master 地址，增加 GitHub API、Raw 与 CDN 多通道，修复部分 Android 无法识别临时 APK，并在授权后自动继续安装。"
+  "versionCode": 16,
+  "versionName": "0.6.1",
+  "apkUrl": "https://raw.githubusercontent.com/ppaofustar/HuaEcho-updates/main/HuaEcho-0.6.1.apk",
+  "sha256": "1d53a272de411b88655d5ab81558505c35d787bb05bc986df5090ac72919a149",
+  "notes": "修复热更新 HTTPS 地址校验空指针；增强图片分析稳定性，将 xAI 请求超时提高到 10 分钟，按 Retry-After 自动等待，显示准确的 HTTP 错误与请求 ID；设置页新增 xAI 连接测试。"
 }
