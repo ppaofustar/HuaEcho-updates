@@ -1,8 +1,8 @@
-{
-  "packageName": "com.huaecho.app",
-  "versionCode": 11,
-  "versionName": "0.5.4",
-  "apkUrl": "https://raw.githubusercontent.com/ppaofustar/HuaEcho-updates/main/HuaEcho-0.5.4.apk",
-  "sha256": "62f50f56decffa6b51dbc67df1764c842f1a4a8749f0e99fde05307c6f4c5b92",
-  "notes": "修复图片分析除零错误，改进历史记录统计和图片缩略图内存占用。"
+﻿{
+    "packageName":  "com.huaecho.app",
+    "versionCode":  13,
+    "versionName":  "0.5.6",
+    "apkUrl":  "https://raw.githubusercontent.com/ppaofustar/HuaEcho-updates/main/HuaEcho-0.5.6.apk",
+    "sha256":  "f287949ef3db30828ec40165aeec87a45153acc2006f080c990a3da426b8f4a5",
+    "notes":  "修复更新检查提示被遮挡的问题，并恢复正确的 main 更新分支。"
 }
