@@ -1,8 +1,8 @@
 {
   "packageName": "com.huaecho.app",
-  "versionCode": 19,
-  "versionName": "0.7.0",
-  "apkUrl": "https://raw.githubusercontent.com/ppaofustar/HuaEcho-updates/main/HuaEcho-0.7.0.apk",
-  "sha256": "8cdf9d1e4456d5549621ba73647237ab56445b7c829959a5a271e0c6ac7690eb",
-  "notes": "聊天页改为微信式会话布局：联系人顶栏、灰色消息背景、左右方形头像、白色与绿色气泡、日期分隔、图片消息和底部输入栏；搜索、日期、模型及思考深度收纳到会话操作入口，并减少逐条动画以改善滚动流畅度。"
+  "versionCode": 20,
+  "versionName": "0.7.1",
+  "apkUrl": "https://raw.githubusercontent.com/ppaofustar/HuaEcho-updates/main/HuaEcho-0.7.1.apk",
+  "sha256": "18b6f27570a0c178b3804c05d6da9df33a2bc9953f91ce6bc82ca44523ea3ce8",
+  "notes": "完善微信式聊天界面：联系人顶栏、日期分隔、方形头像、绿白尖角气泡、图片消息、底部输入栏；将搜索、日期、模型与思考深度收纳进会话操作。"
 }
