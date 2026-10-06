@@ -1,8 +1,8 @@
 {
   "packageName": "com.huaecho.app",
-  "versionCode": 18,
-  "versionName": "0.6.3",
-  "apkUrl": "https://raw.githubusercontent.com/ppaofustar/HuaEcho-updates/main/HuaEcho-0.6.3.apk",
-  "sha256": "453be2b02c57cbb0e8a53199eb0da1a6e1a70f97be179008913199fb92c88ac1",
-  "notes": "修复图片分析停在最后一张：单张图片增加硬超时，停止按钮可立即断开当前请求，异常图片失败后自动跳过而不阻塞队列；新增失败图片计数与单独重试入口，并清理升级后残留的假运行状态。"
+  "versionCode": 19,
+  "versionName": "0.7.0",
+  "apkUrl": "https://raw.githubusercontent.com/ppaofustar/HuaEcho-updates/main/HuaEcho-0.7.0.apk",
+  "sha256": "8cdf9d1e4456d5549621ba73647237ab56445b7c829959a5a271e0c6ac7690eb",
+  "notes": "聊天页改为微信式会话布局：联系人顶栏、灰色消息背景、左右方形头像、白色与绿色气泡、日期分隔、图片消息和底部输入栏；搜索、日期、模型及思考深度收纳到会话操作入口，并减少逐条动画以改善滚动流畅度。"
 }
