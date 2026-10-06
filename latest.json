@@ -1,8 +1,8 @@
 {
   "packageName": "com.huaecho.app",
-  "versionCode": 22,
-  "versionName": "0.7.3",
-  "apkUrl": "https://raw.githubusercontent.com/ppaofustar/HuaEcho-updates/main/HuaEcho-0.7.3.apk",
-  "sha256": "5b65ce1f493a3a2e6f0a3da0adc3514c4be9cf13f4479cd1c53c91b6d9639da0",
-  "notes": "修复图片与表情缩略图偶尔过小：按固定显示范围等比缩放并缓存缩略图；聊天历史改为连续滑动，上滑自动接入更早记录且保持阅读位置，移除较新/更早翻页按钮。"
+  "versionCode": 23,
+  "versionName": "0.7.4",
+  "apkUrl": "https://raw.githubusercontent.com/ppaofustar/HuaEcho-updates/main/HuaEcho-0.7.4.apk",
+  "sha256": "791524d9adb4810fc9aa98104d14240d0c50597935dfed15c170ebb33ffbc9bf",
+  "notes": "聊天表情栏自动回收历史中我发送的表情包，去重展示并支持发送原图和 AI 接话。"
 }
