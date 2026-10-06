@@ -1,8 +1,8 @@
 {
   "packageName": "com.huaecho.app",
-  "versionCode": 23,
-  "versionName": "0.7.4",
-  "apkUrl": "https://raw.githubusercontent.com/ppaofustar/HuaEcho-updates/main/HuaEcho-0.7.4.apk",
-  "sha256": "791524d9adb4810fc9aa98104d14240d0c50597935dfed15c170ebb33ffbc9bf",
-  "notes": "聊天表情栏自动回收历史中我发送的表情包，去重展示并支持发送原图和 AI 接话。"
+  "versionCode": 24,
+  "versionName": "0.8.0",
+  "apkUrl": "https://raw.githubusercontent.com/ppaofustar/HuaEcho-updates/main/HuaEcho-0.8.0.apk",
+  "sha256": "b35003e127ea1c25d023a0e74d6da9658de245249910a5c947cabdf89311c622",
+  "notes": "新增 AI 主动消息：可设置每天约 1～3 次、免打扰时段和通知，并可立即试发；后台生成的消息会保存到聊天。"
 }
