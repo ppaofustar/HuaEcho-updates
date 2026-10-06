@@ -1,8 +1,8 @@
 {
   "packageName": "com.huaecho.app",
-  "versionCode": 25,
-  "versionName": "0.8.1",
-  "apkUrl": "https://raw.githubusercontent.com/ppaofustar/HuaEcho-updates/main/HuaEcho-0.8.1.apk",
-  "sha256": "5b788c9251d60e6fbb3c5a06cb80b44961a966e264f91fc444e102d5dd902d45",
-  "notes": "每次聊天、发表情及主动消息前读取全部已导入的历史对话和图片描述，并使用 xAI 提示缓存减少重复输入成本。"
+  "versionCode": 26,
+  "versionName": "0.8.2",
+  "apkUrl": "https://raw.githubusercontent.com/ppaofustar/HuaEcho-updates/main/HuaEcho-0.8.2.apk",
+  "sha256": "99f332178645ee79e50c62201b483c631498cce7a3efc5fc1d36dd29e8fb5400",
+  "notes": "修正角色回复：禁止无依据推断年龄，就医话题先简短关心；不再学习失真的 AI 回复，必要时自动重试一次。"
 }
