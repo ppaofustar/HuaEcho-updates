@@ -1,8 +1,8 @@
 {
   "packageName": "com.huaecho.app",
-  "versionCode": 17,
-  "versionName": "0.6.2",
-  "apkUrl": "https://raw.githubusercontent.com/ppaofustar/HuaEcho-updates/main/HuaEcho-0.6.2.apk",
-  "sha256": "4891b9b805f2b7561ac2345bbe6da59d1740ca142cf1bc2bfb8993fe46e9fff9",
-  "notes": "修复部分手机访问 xAI 时出现 connection closed：加入官方 us.api.x.ai 区域端点自动回退，关闭失效连接复用，固定请求长度，并增强网络级重试。"
+  "versionCode": 18,
+  "versionName": "0.6.3",
+  "apkUrl": "https://raw.githubusercontent.com/ppaofustar/HuaEcho-updates/main/HuaEcho-0.6.3.apk",
+  "sha256": "453be2b02c57cbb0e8a53199eb0da1a6e1a70f97be179008913199fb92c88ac1",
+  "notes": "修复图片分析停在最后一张：单张图片增加硬超时，停止按钮可立即断开当前请求，异常图片失败后自动跳过而不阻塞队列；新增失败图片计数与单独重试入口，并清理升级后残留的假运行状态。"
 }
