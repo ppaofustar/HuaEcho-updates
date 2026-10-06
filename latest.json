@@ -1,8 +1,8 @@
 {
   "packageName": "com.huaecho.app",
-  "versionCode": 20,
-  "versionName": "0.7.1",
-  "apkUrl": "https://raw.githubusercontent.com/ppaofustar/HuaEcho-updates/main/HuaEcho-0.7.1.apk",
-  "sha256": "18b6f27570a0c178b3804c05d6da9df33a2bc9953f91ce6bc82ca44523ea3ce8",
-  "notes": "完善微信式聊天界面：联系人顶栏、日期分隔、方形头像、绿白尖角气泡、图片消息、底部输入栏；将搜索、日期、模型与思考深度收纳进会话操作。"
+  "versionCode": 21,
+  "versionName": "0.7.2",
+  "apkUrl": "https://raw.githubusercontent.com/ppaofustar/HuaEcho-updates/main/HuaEcho-0.7.2.apk",
+  "sha256": "31abbaa706b66f83cc2de968e25ff61bc003b74106ef06c306a9d3ed335c1ca1",
+  "notes": "日期查询只允许选择实际有聊天记录的日期：无记录和未来日期显示灰色且不可点击；月份导航只经过有记录的月份；搜索时仅开放有匹配结果的日期。"
 }
