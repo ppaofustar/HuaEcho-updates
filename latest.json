@@ -1,8 +1,8 @@
 {
   "packageName": "com.huaecho.app",
-  "versionCode": 21,
-  "versionName": "0.7.2",
-  "apkUrl": "https://raw.githubusercontent.com/ppaofustar/HuaEcho-updates/main/HuaEcho-0.7.2.apk",
-  "sha256": "31abbaa706b66f83cc2de968e25ff61bc003b74106ef06c306a9d3ed335c1ca1",
-  "notes": "日期查询只允许选择实际有聊天记录的日期：无记录和未来日期显示灰色且不可点击；月份导航只经过有记录的月份；搜索时仅开放有匹配结果的日期。"
+  "versionCode": 22,
+  "versionName": "0.7.3",
+  "apkUrl": "https://raw.githubusercontent.com/ppaofustar/HuaEcho-updates/main/HuaEcho-0.7.3.apk",
+  "sha256": "5b65ce1f493a3a2e6f0a3da0adc3514c4be9cf13f4479cd1c53c91b6d9639da0",
+  "notes": "修复图片与表情缩略图偶尔过小：按固定显示范围等比缩放并缓存缩略图；聊天历史改为连续滑动，上滑自动接入更早记录且保持阅读位置，移除较新/更早翻页按钮。"
 }
